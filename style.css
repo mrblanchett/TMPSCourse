@@ -1,0 +1,79 @@
+h1 {
+    font-family: 'Ostrich Sans';
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Ostrich Sans';
+    text-align: center;
+    font-size: 36px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.centered-block {
+    margin: auto;
+}
+
+.white a {
+    color: white;
+}
+
+.logo {
+    display: block;
+    margin: 5px auto;
+    width: 300px;
+}
+
+.task {
+    border: solid 1px gainsboro;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 7px;
+    text-align: right;
+}
+
+.task-text {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.motto-img {
+    width: 550px;
+}
+
+.motto {
+    padding-top: 40px;
+    text-align: right;
+}
+
+.hint {
+    text-align: right;
+    font-size: small;
+    margin-top: 5px;
+}
+
+.hint strong {
+    font-weight: normal;
+    color: #28a745;
+}
+
+.footer {
+    /* position: absolute;
+    bottom: 0; */
+    display: none;
+    background: #28a745;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.motto-button {
+    margin-top: -40px;
+    text-align: right;
+}
